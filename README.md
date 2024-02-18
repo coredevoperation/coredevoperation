@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #0CFFBC">Senior Blockchain Fullstack Developer</h1>
-<h3 align="center">Senior blockchain developer with +2 years of experience, High skilled Fullstack Developer with +3 years of experience</h3>
+<h3 align="center">Senior blockchain developer with +5 years of experience, High skilled Fullstack Developer with +8 years of experience</h3>
 
 
 ### Languages  
